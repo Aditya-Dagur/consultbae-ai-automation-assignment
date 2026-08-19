@@ -1,0 +1,105 @@
+name,email,phone,city,skills
+Tanvi Gupta,tanvi.gupta31@example.com,919000000254,Bengaluru,"n8n, LangChain, REST APIs, MongoDB, SQL"
+Manish Reddy,manish.reddy73@example.com,9000000237,GURGAON,"Docker, Zapier, JavaScript"
+Priya Singh,priya.singh61@mailtest.example.org,9000000287,GURGAON,"React, Zapier, n8n, MySQL, Python, SQL"
+Vikram Saxena,vikram.saxena60@example.com,9000000113,GURGAON,"Selenium, Web Scraping, React, Docker, SQL, FastAPI"
+Amit Agarwal,amit.agarwal3@mailtest.example.org,919000000288,pune,"SQL, Python, JavaScript, Docker"
+Sahil Malhotra,sahil.malhotra1@example.in,919000000143,Noida,"FastAPI, Docker, MySQL, Zapier, Pandas, REST APIs"
+Shreya Gupta,shreya.gupta85@example.com,9000000227,NOIDA,"Zapier, Web Scraping, Docker, n8n, Python"
+Isha Chopra,isha.chopra95@mailtest.example.org,9000000138,PUNE,"React, JavaScript, MySQL"
+Priya Nair,priya.nair70@example.com,919000000222,gurugram ,"Zapier, REST APIs, React, Python, n8n, Web Scraping"
+Rohit Mishra,rohit.mishra70@mailtest.example.org,9000000167,Delhi,"Docker, Pandas, FastAPI, SQL, Zapier, MySQL"
+Rahul Malhotra,rahul.malhotra69@mailtest.example.org,9000000260,new delhi,"MySQL, REST APIs, SQL, MongoDB, Selenium"
+Rahul Jain,rahul.jain34@example.in,9000000114,Noida ,"Zapier, Selenium, Docker, Python"
+Nikhil Malhotra,nikhil.malhotra41@example.in,9000000145,New Delhi,"FastAPI, JavaScript, Web Scraping, SQL, Python"
+Karan Bhatia,karan.bhatia32@mailtest.example.org,919000000211,Noida ,"SQL, MongoDB, Selenium, Zapier, Web Scraping, JavaScript"
+Ritu Sharma,ritu.sharma23@mailtest.example.org,9000000146,Noida ,"n8n, Web Scraping, MongoDB, SQL, React"
+Arjun Mishra,arjun.mishra70@example.com,9000000106,Delhi,"React, Docker, JavaScript"
+Meera Bhatia,meera.bhatia52@mailtest.example.org,9000000223,Delhi NCR,"LangChain, Docker, MySQL, Python, SQL, React"
+Varun Jain,varun.jain29@example.com,9000000263,Pune,"n8n, Web Scraping, FastAPI, MySQL, Pandas, MongoDB"
+Arjun Mehta,arjun.mehta9@example.in,9000000131,NOIDA,"SQL, Selenium, n8n"
+Kavya Mehta,kavya.mehta7@example.com,919000000177,Bengaluru,"n8n, MongoDB, FastAPI, Pandas, React"
+Sneha Chopra,sneha.chopra99@example.in,919000000162,pune,"Pandas, React, MySQL, JavaScript, SQL"
+Deepak Mehta,deepak.mehta86@example.in,9000000116,NOIDA,"MySQL, MongoDB, n8n, LangChain, REST APIs, Selenium"
+Pooja Gupta,pooja.gupta57@mailtest.example.org,9000000271,Noida,"Docker, MySQL, SQL, n8n, Selenium"
+R. Verma,rohit.verma13@mailtest.example.org,9000000294,Bangalore,"Python, React, MongoDB"
+Sneha Mishra,sneha.mishra14@mailtest.example.org,9000000229,pune,"MySQL, Docker, Selenium, Pandas"
+Nikhil Chopra,alt.nikhil.chopra70@example.com,9000000103,NOIDA,"Pandas, SQL, n8n"
+Priya Saxena,priya.saxena61@example.com,919000000231,Delhi,"Python, MySQL, Zapier, React"
+Varun Saxena,varun.saxena21@example.in,9000000170,gurugram ,"MongoDB, Zapier, SQL, LangChain, MySQL, REST APIs"
+Gaurav Mehta,gaurav.mehta79@mailtest.example.org,9000000133,Bengaluru,"REST APIs, SQL, Selenium, FastAPI"
+Rohit Nair,rohit.nair32@mailtest.example.org,919000000268,Gurugram,"REST APIs, n8n, Web Scraping, Docker"
+Deepak Nair,deepak.nair44@example.com,9000000296,bangalore,"React, n8n, MongoDB, Pandas"
+Rahul Chopra,rahul.chopra70@example.com,9000000137,NOIDA,"Zapier, Docker, Python"
+Deepak Singh,deepak.singh36@mailtest.example.org,9000000202,bangalore,"Web Scraping, FastAPI, Docker, React"
+Amit Reddy,amit.reddy9@mailtest.example.org,9000000165,Delhi NCR,"React, MySQL, LangChain"
+Nikhil Chopra,nikhil.chopra70@example.com,9000000103,NOIDA,"Pandas, SQL, n8n"
+Tanvi Agarwal,tanvi.agarwal97@example.in,919000000148,PUNE,"MongoDB, REST APIs, FastAPI, Web Scraping"
+Nikhil Mehta,nikhil.mehta5@example.com,9000000104,PUNE,"Docker, LangChain, Zapier, Selenium, Python, React"
+Isha Kapoor,isha.kapoor54@example.com,919000000295,new delhi,"FastAPI, Python, JavaScript, Selenium, React, MySQL"
+Arjun Bhatia,arjun.bhatia14@example.com,9000000212,new delhi,"Zapier, REST APIs, SQL, FastAPI, Pandas, Web Scraping"
+Isha Sharma,isha.sharma15@example.com,919000000259,Delhi,"n8n, Python, Selenium, JavaScript, REST APIs, MongoDB"
+Neha Bhatia,neha.bhatia60@mailtest.example.org,9000000273,Pune,"FastAPI, Zapier, JavaScript, Selenium"
+Varun Jain,varun.jain29@example.com,,Pune,"n8n, web scraping, fastapi, mysql, pandas, mongodb"
+Tanvi Agarwal,tanvi.agarwal97@example.in,,PUNE,"mongodb, rest apis, fastapi, web scraping"
+Karan Bhatia,karan.bhatia32@mailtest.example.org,,Noida ,"sql, mongodb, selenium, zapier, web scraping, javascript"
+Arjun Mishra,arjun.mishra70@example.com,,Delhi,"react, docker, javascript"
+Isha Kapoor,isha.kapoor54@example.com,,Delhi,"fastapi, python, javascript, selenium, react, mysql"
+Isha Chopra,ISHA.CHOPRA95@MAILTEST.EXAMPLE.ORG,,Pune,"react, javascript, mysql"
+Meera Bhatia,meera.bhatia52@mailtest.example.org,,New Delhi,"langchain, docker, mysql, python, sql, react"
+Vikram Saxena,vikram.saxena60@example.com,,Gurgaon,"selenium, web scraping, react, docker, sql, fastapi"
+Rahul Chopra,rahul.chopra70@example.com,,Noida,"zapier, docker, python"
+Tanvi Gupta,tanvi.gupta31@example.com,,bangalore,"n8n, langchain, rest apis, mongodb, sql"
+,,,,
+Varun Saxena,VARUN.SAXENA21@EXAMPLE.IN,,gurugram ,"mongodb, zapier, sql, langchain, mysql, rest apis"
+Sneha Chopra,sneha.chopra99@example.in,,pune,"pandas, react, mysql, javascript, sql"
+Deepak Nair,DEEPAK.NAIR44@EXAMPLE.COM,,Bengaluru,"react, n8n, mongodb, pandas"
+Gaurav Mehta,gaurav.mehta79@mailtest.example.org,,bangalore,"rest apis, sql, selenium, fastapi"
+Neha Bhatia,NEHA.BHATIA60@MAILTEST.EXAMPLE.ORG,,PUNE,"fastapi, zapier, javascript, selenium"
+Arjun Mehta,arjun.mehta77@mailtest.example.org,,Noida,"fastapi, pandas, web scraping, zapier, docker, mysql"
+Manish Bhatia,manish.bhatia3@example.com,,Noida,"pandas, docker, javascript, react, rest apis, web scraping"
+ISHA.CHOPRA95@MAILTEST.EXAMPLE.ORG,"react, javascript, mysql",,1406/hr,active
+Divya Chopra,divya.chopra59@example.in,,Noida,"zapier, docker, mongodb, fastapi"
+Karan Chopra,KARAN.CHOPRA76@MAILTEST.EXAMPLE.ORG,,Pune,"n8n, selenium, python, mongodb, pandas"
+Vikram Mehta,vikram.mehta6@example.com,,pune,"rest apis, python, langchain"
+Pooja Kapoor,pooja.kapoor62@example.in,,NOIDA,"rest apis, sql, react"
+Kavya Verma,KAVYA.VERMA74@MAILTEST.EXAMPLE.ORG,,gurugram ,"sql, pandas, web scraping, react"
+Tanvi Reddy,TANVI.REDDY80@EXAMPLE.COM,,pune,"langchain, docker, python, rest apis, sql"
+Varun Singh,varun.singh81@example.com,,Noida ,"python, react, fastapi, mongodb"
+Tanvi Kapoor,tanvi.kapoor38@example.com,,new delhi,"docker, selenium, web scraping, mysql"
+Nikhil Nair,nikhil.nair26@example.in,,gurugram ,"python, n8n, web scraping"
+Pooja Reddy,pooja.reddy96@mailtest.example.org,,Noida,"pandas, docker, fastapi, web scraping, sql"
+Tanvi Sharma,TANVI.SHARMA56@MAILTEST.EXAMPLE.ORG,,NOIDA,"langchain, python, web scraping, n8n, fastapi"
+Deepak Nair,DEEPAK.NAIR57@EXAMPLE.IN,,New Delhi,"javascript, react, docker, web scraping, mysql, sql"
+Anjali Agarwal,anjali.agarwal53@mailtest.example.org,,Bengaluru,"sql, javascript, selenium, rest apis, docker, react"
+Rohit Nair,,9000000268,Gurgaon,
+RITU SHARMA,,9000000146,Noida ,
+Priya Saxena,,919000000231,New Delhi,
+Arjun Mehta,,+91-9000000131,Noida,
+Nikhil Mehta,,+91-9000000104,pune,
+RAHUL MALHOTRA,,919000000260,Delhi NCR,
+Deepak Mehta,,9000000116,Noida,
+SAHIL MALHOTRA,,9000000143,Noida,
+Shreya Gupta,,+91-9000000227,NOIDA,
+Priya Singh,,9000000287,gurugram ,
+Varun Jain,,919000000263,Pune,
+Tanvi Agarwal,,919000000148,Pune,
+KARAN BHATIA,,9000000211,NOIDA,
+Arjun Mishra,,919000000106,new delhi,
+Name,,Phone Number,City,
+Isha Kapoor,,+91-9000000295,New Delhi,
+Isha Chopra,,919000000138,pune,
+MEERA BHATIA,,919000000223,Delhi,
+Vikram Saxena,,9000000113,Gurgaon,
+Rahul Chopra,,9000000137,Noida ,
+Tanvi Gupta,,9000000254,Bengaluru,
+VARUN SAXENA,,919000000170,GURGAON,
+Sneha Chopra,,+91-9000000162,pune,
+DEEPAK NAIR,,919000000296,Bengaluru,
+Gaurav Mehta,,9000000133,Bengaluru,
+Neha Bhatia,,9000000273,PUNE,
+Arjun Mehta,,9000000272,Noida,
+MANISH BHATIA,,919000000161,Noida ,
+DIVYA CHOPRA,,9000000111,NOIDA,
+Karan Chopra,,919000000245,pune,
+Vikram Mehta,,+91-9000000261,PUNE,
